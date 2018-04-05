@@ -1,0 +1,12 @@
+Apos abrir o terminal, na pasta Trabalho 2 siga os passos:
+Compile o programa com o comando make.
+Execute-o com o comando “./prog”. 
+Em seguida, digite as entradas desejadas de acordo com o formato proposto pelo roteiro.
+Para abrir os exemplos, execute-o como: 
+
+./prog <in1.txt	
+./prog <in2.txt
+...
+./prog <in12.txt
+
+Para limpar os arquivos gerado pelo comando “make”, utilize o comando “make clean”.
